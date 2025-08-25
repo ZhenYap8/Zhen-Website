@@ -1,0 +1,12 @@
+# dependencies and builds
+node_modules/
+.next/
+dist/
+coverage/
+
+# env and OS junk
+.env
+.env.*
+.DS_Store
+*.log
+*.zip
