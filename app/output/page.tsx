@@ -40,7 +40,6 @@ export default function OutputPage() {
             <CardContent>
               <ul style={{ margin: 0, paddingLeft: 18 }}>
                 <li><Link href="/blog/sginnovate-beam-there-bot">SGInnovate × NRP — “Beam There, Bot”</Link></li>
-                <li><Link href="/blog/debugging-myself-while-debugging-code">Debugging Myself While Debugging Code</Link></li>
               </ul>
             </CardContent>
           </Card>

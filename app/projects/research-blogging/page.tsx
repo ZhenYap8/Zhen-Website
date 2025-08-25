@@ -22,7 +22,6 @@ export default function ResearchBloggingPage() {
           </p>
           <ul>
             <li><Link href="/blog/sginnovate-beam-there-bot">SGInnovate × NRP — Beam There, Bot</Link></li>
-            <li><Link href="/blog/debugging-myself-while-debugging-code">Debugging Myself While Debugging Code</Link></li>
           </ul>
         </div>
       </Container>

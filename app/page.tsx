@@ -70,16 +70,6 @@ export default async function HomePage() {
                 </div>
               </div>
             </Link>
-
-            <Link href="/blog/debugging-myself-while-debugging-code" className="card-link">
-              <div className="card card--clickable">
-                <h3>Debugging Myself While Debugging Code</h3>
-                <p>On the emotional marathon of building this site and fighting errors.</p>
-                <div className="card__footer">
-                  <span className="card__meta">Uploaded: {debugDate}</span>
-                </div>
-              </div>
-            </Link>
           </div>
 
           <Separator />
