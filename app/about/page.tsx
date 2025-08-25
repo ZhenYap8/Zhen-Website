@@ -44,7 +44,7 @@ export default function AboutPage() {
             <div className="prose">
               <h3>Goals</h3>
               <ul>
-                <li>Build embodied AI on UAVs, humanoids, and assistive robots</li>
+                <li>Build embodied AI on UAVs, humanoids, assistive robots, and the next Baymax</li>
                 <li>Develop RL/control pipelines in simulation (Isaac Gym, MuJoCo) and validate them on hardware</li>
                 <li>Share progress through research‑style posts, blogs, and open‑source experiments</li>
               </ul>
