@@ -14,25 +14,33 @@ Contact – Ways to connect with me professionally and socially.
 Deployment: Vercel
 
 🔧 Installation & Setup
+
 1. Clone the repo:
+   
 git clone https://github.com/yourusername/zhen-website.git
+
 cd zhen-website
 
 2. Install dependencies:
+   
 npm install
 
 3. Run locally:
+
 npm run dev
 
 4. Build for production:
+
 npm run build
 
 
 🌍 Deployment:
+
 using vercel, i deployed the website as zhen-website-nine.vercel.app
 
 
 📬 Contact
+
 Instagram: @zhen.yzw
 
 TikTok: @zhen.yzw
