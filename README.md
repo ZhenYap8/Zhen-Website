@@ -4,8 +4,11 @@ This repository contains the source code for my personal website, showcasing my 
 
 🚀 Features
 About Me – Overview of my background and interests.
+
 Projects – Highlights of my work in Chemistry, Robotics, AI, and investment analysis tools.
+
 Content Creation – Links to my Instagram, TikTok, and YouTube platforms.
+
 Contact – Ways to connect with me professionally and socially.
 
 Deployment: Vercel
