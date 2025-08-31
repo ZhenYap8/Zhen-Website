@@ -39,15 +39,11 @@ npm run build
 using vercel, i deployed the website as zhen-website-nine.vercel.app
 
 
-📬 Contact
-
-Instagram: @zhen.yzw
-
-TikTok: @zhen.yzw
-
-YouTube: Zhen Wei Yap
-
-Email: zhenwyap@email.com
+📬 Contact:
+- Instagram: @zhen.yzw
+- TikTok: @zhen.yzw
+- YouTube: Zhen Wei Yap
+- Email: zhenwyap@email.com
 
 
 ⚖️ License & Credit
