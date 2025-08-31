@@ -34,7 +34,7 @@ YouTube: Zhen Wei Yap
 Email: zhenwyap@email.com
 
 ⚖️ License & Credit
-This project is copyright © Zhen.
-The source code is made public for reference and learning purposes only.
-Modification, redistribution, or commercial use is not permitted without explicit permission.
-If you would like to use part of this project, please credit me and request approval first.
+- This project is copyright © Zhen.
+- The source code is made public for reference and learning purposes only.
+- Modification, redistribution, or commercial use is not permitted without explicit permission.
+- If you would like to use part of this project, please credit me and request approval first.
