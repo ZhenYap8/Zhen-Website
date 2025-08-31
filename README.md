@@ -27,14 +27,20 @@ npm run dev
 4. Build for production:
 npm run build
 
+
 🌍 Deployment:
 using vercel, i deployed the website as zhen-website-nine.vercel.app
 
+
 📬 Contact
 Instagram: @zhen.yzw
+
 TikTok: @zhen.yzw
+
 YouTube: Zhen Wei Yap
+
 Email: zhenwyap@email.com
+
 
 ⚖️ License & Credit
 - This project is copyright © Zhen.
